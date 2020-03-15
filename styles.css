@@ -1,0 +1,19 @@
+.header {
+    top: 0;
+    min-height: 50px;
+    margin-bottom: 0px;
+    width: 100%;
+}
+
+body {
+  background: url('Images/IMG_0435.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#img-headshot {
+    max-width: 75%;
+}
+
