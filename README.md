@@ -1,3 +1,3 @@
 # student_bio
 
-Homework 2 Updated student Bio
+An overview of my professional work with links to my LinkedIn and github profiles and my resume.
