@@ -9,7 +9,7 @@
 }
 
 body {
-  background: url('Images/IMG_0435.jpg') no-repeat center center fixed;
+  background: url('./Images/IMG_0435.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
